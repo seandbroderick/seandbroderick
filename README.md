@@ -1,0 +1,4 @@
+- Hi, I’m @seandbroderick
+- I’m interested in video game and AI development
+- I’m currently learning to code at CU Boulder!
+- How to reach me: seandbroderick@gmail.com
