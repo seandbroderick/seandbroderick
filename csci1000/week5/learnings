@@ -1,0 +1,3 @@
+This week I learned some better practices compared to what I was doing before.
+I never really used switch statements because I never understood why I should use them over if/else if
+I also learned a lot more about subtle optimizations and order of operations in code that will be useful in the future.
